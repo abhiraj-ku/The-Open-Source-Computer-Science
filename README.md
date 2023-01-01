@@ -1,7 +1,7 @@
 # The-Open-Source-Computer-Science-Degree
 This respository contains Important Resources compiled from internet to help you get started in computer science world
 
-Resources 1. Computer  Science 
+Resources 1. 1.1 Computer  Science 
 
             Notion Template of  The-Open-Source-Computer-Science-Degree to track your progress 
 
@@ -10,10 +10,10 @@ Resources 1. Computer  Science
             
 Resource 2. Open source
 
-          Open source with pradumna
+          2.1 Open source with pradumna
           
           https://oswp.study/#/
           
-          Good first issue for beginner
+          2.2 Good first issue for beginner
           
           https://goodfirstissue.dev/
