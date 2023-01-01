@@ -10,10 +10,14 @@ Resources 1. 1.1 Computer  Science
             
 Resource 2. Open source
 
-          2.1 Open source with pradumna
+          2.1  What is open source and how to get started by Kunal Kushwaha 
+          
+          https://www.youtube.com/watch?v=msyGybzCKRs&ab_channel=KunalKushwaha
+            
+          2.2 Open source with pradumna
           
           https://oswp.study/#/
           
-          2.2 Good first issue for beginner
+          2.3 Good first issue for beginner
           
           https://goodfirstissue.dev/
